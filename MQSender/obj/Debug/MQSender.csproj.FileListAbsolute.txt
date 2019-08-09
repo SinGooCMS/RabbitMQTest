@@ -1,0 +1,12 @@
+D:\产品研发\RabbitMQ\MQTest\MQSender\bin\Debug\MQSender.exe.config
+D:\产品研发\RabbitMQ\MQTest\MQSender\bin\Debug\MQSender.exe
+D:\产品研发\RabbitMQ\MQTest\MQSender\bin\Debug\MQSender.pdb
+D:\产品研发\RabbitMQ\MQTest\MQSender\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\产品研发\RabbitMQ\MQTest\MQSender\bin\Debug\RabbitMQ.Client.dll
+D:\产品研发\RabbitMQ\MQTest\MQSender\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\产品研发\RabbitMQ\MQTest\MQSender\bin\Debug\RabbitMQ.Client.xml
+D:\产品研发\RabbitMQ\MQTest\MQSender\obj\Debug\MQSender.csprojAssemblyReference.cache
+D:\产品研发\RabbitMQ\MQTest\MQSender\obj\Debug\MQSender.csproj.CoreCompileInputs.cache
+D:\产品研发\RabbitMQ\MQTest\MQSender\obj\Debug\MQSender.csproj.CopyComplete
+D:\产品研发\RabbitMQ\MQTest\MQSender\obj\Debug\MQSender.exe
+D:\产品研发\RabbitMQ\MQTest\MQSender\obj\Debug\MQSender.pdb
